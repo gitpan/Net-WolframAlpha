@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Net-WolframAlpha.t
+lib/Net/WolframAlpha.pm
